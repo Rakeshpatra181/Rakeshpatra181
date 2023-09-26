@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rakeshpatra181
+👋 Hi, I’m @Rakeshpatra181
 # Daddy's Portfolio
 
 Welcome to my web designer portfolio on GitHub! This repository showcases my work as a web designer and provides information about my skills and experience. Feel free to explore the projects and learn more about my design journey.
